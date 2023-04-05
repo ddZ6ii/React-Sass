@@ -1,0 +1,32 @@
+// COLOR PALETTE
+$color-darkmode: #282e32;
+$color-lightmode: #f5f5f5;
+
+$color-dark: #363f44;
+$color-dark-25: hsla(201, 11%, 24%, 0.25);
+
+$color-light: #f2f3f9;
+$color-light-75: hsla(231, 37%, 96%, 0.75);
+$color-light-50: hsla(231, 37%, 96%, 0.5);
+$color-light-25: hsla(231, 37%, 96%, 0.25);
+$color-light-10: hsla(231, 37%, 96%, 0.1);
+
+$color-primary: #0afdd8;
+$color-primary-75: hsla(171, 98%, 52%, 0.75);
+$color-primary-50: hsla(171, 98%, 52%, 0.5);
+$color-primary-10: hsla(171, 98%, 52%, 0.1);
+
+// TYPOGRAPHY
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+$fontFamily: "Poppins", "sans";
+$fontFamily-quote: "Georgia", "Times New Roman", "Times";
+
+$fontSize-8xl: 8rem;
+$fontSize-4xl: 4rem;
+$fontSize-3xl: 3rem;
+$fontSize-2xl: 2rem;
+$fontSize-xl: 1.414rem;
+$fontSize-lg: 1.25rem;
+$fontSize-base: 1rem;
+$fontSize-sm: 0.875rem;
+$fontSize-xs: 0.75rem;
